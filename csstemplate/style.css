@@ -1,3 +1,4 @@
+/*https://support.awesome-table.com/hc/en-us/articles/360013977720-CSS-tricks-for-Table-apps*/
 /* Style for Title and description */
 .title{
         margin: 10px 5px;
@@ -37,3 +38,6 @@
 a.button[href=""]{
         display: none;
 }
+#count {
+        display:none
+}        
