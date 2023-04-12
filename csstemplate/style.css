@@ -38,4 +38,10 @@
 a.button[href=""]{
         display: none;
 }
+.myContainer {
+  padding: 5px;
+  max-width: 500px;
+  margin-top: -10px;
+  margin-bottom: 5px;
+}
       
