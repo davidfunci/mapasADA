@@ -38,7 +38,7 @@
 a.button[href=""]{
         display: none;
 }
-#dashboard {
+.body-child {
   margin: 10px;
 }
       
